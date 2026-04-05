@@ -1,0 +1,7 @@
+google-generativeai
+unstructured
+opensearch-py
+tiktoken
+gradio
+langchain
+ipython
