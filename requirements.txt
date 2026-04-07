@@ -5,3 +5,5 @@ tiktoken
 gradio
 langchain
 ipython
+dotenv
+requests
